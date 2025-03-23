@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\device\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\device\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|c:\\users\\user\\desktop\\cse_422\\answer\\lab_2_buihoangphuc\\lab_2_buihoangphuc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6CCCBE-3016-49C2-9D68-DD6A0772E8E7}|Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc.csproj|solutionrelative:lab_2_buihoangphuc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\Employee.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:01:38.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\Category.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:55.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:00:31.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T15:00:48.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T15:03:24.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T15:07:19.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\Device.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:32.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:22:13.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Device\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\Device\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Device\\Index.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\Device\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:22:21.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Device\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\Device\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Device\\Create.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\Device\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:28:14.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Device\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\Device\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Device\\Edit.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\Device\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:29:53.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\User.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:51.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:09:21.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T15:10:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T15:11:16.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T15:12:14.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:09:38.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:22.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwDAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-13T14:46:35.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:45:54.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_2_BuiHoangPhuc\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSE_422\\Answer\\Lab_2_BuiHoangPhuc\\Lab_2_BuiHoangPhuc\\Program.cs",
+              "RelativeToolTip": "Lab_2_BuiHoangPhuc\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:55:10.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

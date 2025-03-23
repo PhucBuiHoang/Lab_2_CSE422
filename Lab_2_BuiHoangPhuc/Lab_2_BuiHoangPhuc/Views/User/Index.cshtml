@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+	ViewData["Title"] = "User Management";
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>User Management</title>
+</head>
+<body>
+	<div class="container">
+		<nav class="navbar justify-content-end">
+			<form class="d-flex searchForm" role="search">
+				<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+				<button class="btn btn-outline-primary" type="submit">Search</button>
+			</form>
+			<a href="/User/Create">
+				<button class="btn btn-outline-secondary" type="submit">
+					<i class="fa fa-plus" aria-hidden="true"></i>Add
+					new
+				</button>
+			</a>
+		</nav>
+
+		<h1>User Manager</h1>
+
+		<table class="table">
+			<thead>
+				<tr>
+					<th scope="col">Id</th>
+					<th scope="col">Full name</th>
+					<th scope="col">Email</th>
+					<th scope="col">Phone number</th>
+					<th scope="col">Action</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var users in ViewBag.Users)
+				{
+					<tr>
+						<th scope="row">@users.Id</th>
+						<td>@users.FullName</td>
+						<td>@users.Email</td>
+						<td>@users.PhoneNumber</td>
+						<td>
+							<a href="/User/Edit/@users.Id"><button type="button" class="btn btn-outline-secondary">Edit</button></a>
+							<a href="User/Delete/@users.Id"><button type="button" class="btn btn-outline-danger">Delete</button></a>										
+						</td>
+					</tr>
+				}				
+			</tbody>
+		</table>
+	</div>
+</body>
+</html>

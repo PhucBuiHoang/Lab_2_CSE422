@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Add New User";
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><title>Add New User</title></head>
+<body>
+    <div class="container">
+        <h1>Add New User</h1>
+        <div class="container">
+            <form class="row g-3 needs-validation" method="post" asp-action="Create" novalidate>
+                <div class="col-md-6 position-relative">
+                    <label for="FullName" class="form-label">Full name</label>
+                    <input type="text" class="form-control" name="FullName" placeholder="Full name" required>
+                </div>
+                <div class="col-md-6 position-relative">
+                    <label for="Email" class="form-label">Email</label>
+                    <input type="email" class="form-control" name="Email" placeholder="Email" required>
+                </div>
+                <div class="col-md-6 position-relative">
+                    <label for="PhoneNumber" class="form-label">Phone number</label>
+                    <input type="text" class="form-control" name="PhoneNumber" placeholder="Phone number" required>
+                </div>
+                <div class="col-12">
+                    <button class="btn btn-primary" type="submit">Add</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

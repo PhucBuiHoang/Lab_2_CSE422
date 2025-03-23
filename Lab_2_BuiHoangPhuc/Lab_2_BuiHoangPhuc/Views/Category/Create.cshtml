@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+	ViewData["Title"] = "Add New Category";
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Add New Category</title>
+</head>
+<body>
+	<div class="container">
+		<div class="container">
+			<h1>Add New Category</h1>
+			<form class="row g-3 needs-validation" novalidate method="post" asp-action="Create">
+				<div class="col-md-6 position-relative">
+					<label for="Name" class="form-label">Category name</label>
+					<input type="text" class="form-control" name="Name"  placeholder="Category name" required>
+				</div>
+				<div class="col-12">
+					<button class="btn btn-primary" type="submit">Add</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

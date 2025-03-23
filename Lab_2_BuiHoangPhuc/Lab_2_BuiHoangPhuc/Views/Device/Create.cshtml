@@ -1,0 +1,57 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+	ViewData["Title"] = "Add New Device";
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Add New Device</title>
+</head>
+<body>
+	<div class="container">
+		<h1>Add New Divice</h1>
+		<div class="container border-form">
+			<form class="row g-3 needs-validation" method="post" asp-action="Create" novalidate>
+				<div class="col-md-6 position-relative">
+					<label for="DeviceCode" class="form-label">Divice Code</label>
+					<input type="text" name="DeviceCode" class="form-control" placeholder="Device code" required />
+				</div>
+				<div class="col-md-6 position-relative">
+					<label for="DeviceName" class="form-label">Divice name</label>
+					<input type="text" name="DeviceName" class="form-control" placeholder="Device name" required />
+				</div>
+				<div class="col-md-6 position-relative">
+					<label for="CategoryName" class="form-label">Divice Category</label>
+					<select name="CategoryName" class="form-select" required>
+						@foreach (var category in ViewBag.Categories)
+						{
+							<option value="@category.Id">@category.Name</option>
+						}
+					</select>
+				</div>
+				<div class="col-md-6 position-relative">
+					<div class="form-group">
+						<label for="Status" class="form-label">Status</label>
+						<select class="form-select" name="Status">
+							<option value="InUse">In Use</option>
+							<option value="Broken">Broken</option>
+							<option value="UnderMaintenance">Under Maintenance</option>
+						</select>
+					</div>
+				</div>
+				<div class="col-md-6 position-relative">
+					<label for="DateOfEntry" class="form-label">Date of entry</label>
+					<input type="text" class="form-control" name="DateOfEntry" placeholder="Date of entry" required>
+				</div>
+
+				<div class="col-12">
+					<button class="btn btn-primary" type="submit">Add</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</body>
+</html>

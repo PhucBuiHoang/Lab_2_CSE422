@@ -1,0 +1,63 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+	ViewData["Title"] = "Device Manage";
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Device Manage</title>
+</head>
+<body>
+	<div class="container">
+		<nav class="navbar justify-content-end">
+			<form class="d-flex searchForm" role="search" method="get" action="/Device/Index">
+				<input class="form-control me-2" type="search" name="searchQuery" value="@ViewBag.SearchQuery" placeholder="Search" aria-label="Search">
+				<button class="btn btn-outline-primary" type="submit">Search</button>
+			</form>
+			<a href="/Device/Create">
+				<button class="btn btn-outline-secondary" type="submit">
+					<i class="fa fa-plus" aria-hidden="true"></i>Add
+					new
+				</button>
+			</a>
+		</nav>
+		<h1>Device Manager</h1>
+		<table class="table">
+			<thead>
+				<tr>
+					<th scope="col">Code</th>
+					<th scope="col">Name</th>
+					<th scope="col">Category</th>
+					<th scope="col">Status</th>
+					<th scope="col">Date of entry</th>
+					<th scope="col">Action</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var devices in ViewBag.Devices)
+				{
+					<tr>
+						<th scope="col">@devices.Id</th>
+						<td>@devices.DeviceName</td>
+						<td>@devices.CategoryName</td>
+						<td>@devices.Status</td>
+						<td>@devices.DateOfEntry</td>
+						<td>
+							<a href="/Device/Edit/@devices.Id">
+								<button type="button" class="btn btn-outline-secondary">Edit</button>
+							</a>
+							<a href="/Device/Delete/@devices.Id">
+								<button type="button" class="btn btn-outline-danger">Delete</button>
+							</a>
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+</body>
+</html>
